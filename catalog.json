@@ -23456,40 +23456,40 @@
             ],
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/ubooquity.webp"
         },
-        "unifi": {
-            "app_readme": "<p>Ubiquiti Network's Unifi Controller</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/unifi\">https://truecharts.org/charts/stable/unifi</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
-            "categories": [
-                "Networking"
-            ],
-            "description": "Ubiquiti Network's Unifi Controller",
-            "healthy": true,
-            "healthy_error": null,
-            "home": "https://truecharts.org/charts/stable/unifi",
-            "location": "/home/runner/_work/catalog/catalog/stable/unifi",
-            "latest_version": "21.0.9",
-            "latest_app_version": "8.1.127",
-            "latest_human_version": "8.1.127_21.0.9",
-            "last_update": "2024-05-29 12:35:14",
-            "name": "unifi",
-            "recommended": false,
-            "title": "Unifi",
-            "maintainers": [
-                {
-                    "name": "TrueCharts",
-                    "email": "info@truecharts.org",
-                    "url": "https://truecharts.org"
-                }
-            ],
-            "tags": [],
-            "screenshots": [],
-            "sources": [
-                "https://ghcr.io/goofball222/unifi",
-                "https://github.com/jacobalberty/unifi-docker",
-                "https://github.com/truecharts/charts/tree/master/charts/stable/unifi",
-                "https://unifi-network.ui.com"
-            ],
-            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/unifi.webp"
-        },
+      "unifi": {
+        "app_readme": "<p>Ubiquiti Network's Unifi Controller</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/unifi\">https://truecharts.org/charts/stable/unifi</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+        "categories": [
+          "Networking"
+        ],
+        "description": "Ubiquiti Network's Unifi Controller",
+        "healthy": true,
+        "healthy_error": null,
+        "home": "https://truecharts.org/charts/stable/unifi",
+        "location": "/home/runner/_work/catalog/catalog/stable/unifi",
+        "latest_version": "21.0.10",
+        "latest_app_version": "8.3.32",
+        "latest_human_version": "8.3.32_21.0.10",
+        "last_update": "2024-08-10 12:34:56",
+        "name": "unifi",
+        "recommended": false,
+        "title": "Unifi",
+        "maintainers": [
+          {
+            "name": "TrueCharts",
+            "email": "info@truecharts.org",
+            "url": "https://truecharts.org"
+          }
+        ],
+        "tags": [],
+        "screenshots": [],
+        "sources": [
+          "https://ghcr.io/goofball222/unifi",
+          "https://github.com/jacobalberty/unifi-docker",
+          "https://github.com/truecharts/charts/tree/master/charts/stable/unifi",
+          "https://unifi-network.ui.com"
+        ],
+        "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/unifi.webp"
+      },
         "universal-media-server": {
             "app_readme": "<p>Universal Media Server is a DLNA-compliant UPnP Media Server. It is capable of sharing video, audio and images between most modern devices. It was originally based on PS3 Media Server by shagrath, in order to ensure greater stability and file-compatibility.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/universal-media-server\">https://truecharts.org/charts/stable/universal-media-server</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
             "categories": [
