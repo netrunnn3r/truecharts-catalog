@@ -21405,40 +21405,40 @@
             ],
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/stash.webp"
         },
-        "static-web-server": {
-            "app_readme": "<p>A cross-platform, high-performance and asynchronous web server for static files-serving.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/static-web-server\">https://truecharts.org/charts/stable/static-web-server</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
-            "categories": [
-                "web-server"
-            ],
-            "description": "A cross-platform, high-performance and asynchronous web server for static files-serving.",
-            "healthy": true,
-            "healthy_error": null,
-            "home": "https://truecharts.org/charts/stable/static-web-server",
-            "location": "/home/runner/_work/catalog/catalog/stable/static-web-server",
-            "latest_version": "5.2.4",
-            "latest_app_version": "2.31.1",
-            "latest_human_version": "2.31.1_5.2.4",
-            "last_update": "2024-05-29 12:35:14",
-            "name": "static-web-server",
-            "recommended": false,
-            "title": "Static-web-server",
-            "maintainers": [
-                {
-                    "name": "TrueCharts",
-                    "email": "info@truecharts.org",
-                    "url": "https://truecharts.org"
-                }
-            ],
-            "tags": [],
-            "screenshots": [],
-            "sources": [
-                "https://ghcr.io/static-web-server/static-web-server",
-                "https://github.com/static-web-server/static-web-server",
-                "https://github.com/truecharts/charts/tree/master/charts/stable/static-web-server",
-                "https://static-web-server.net"
-            ],
-            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/static-web-server.webp"
-        },
+      "static-web-server": {
+        "app_readme": "<p>A cross-platform, high-performance and asynchronous web server for static files-serving.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/static-web-server\">https://truecharts.org/charts/stable/static-web-server</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+        "categories": [
+          "web-server"
+        ],
+        "description": "A cross-platform, high-performance and asynchronous web server for static files-serving.",
+        "healthy": true,
+        "healthy_error": null,
+        "home": "https://truecharts.org/charts/stable/static-web-server",
+        "location": "/home/runner/_work/catalog/catalog/stable/static-web-server",
+        "latest_version": "5.2.5",
+        "latest_app_version": "2.32.1",
+        "latest_human_version": "2.32.1_5.2.5",
+        "last_update": "2024-08-10 12:34:56",
+        "name": "static-web-server",
+        "recommended": false,
+        "title": "Static-web-server",
+        "maintainers": [
+          {
+            "name": "TrueCharts",
+            "email": "info@truecharts.org",
+            "url": "https://truecharts.org"
+          }
+        ],
+        "tags": [],
+        "screenshots": [],
+        "sources": [
+          "https://ghcr.io/static-web-server/static-web-server",
+          "https://github.com/static-web-server/static-web-server",
+          "https://github.com/truecharts/charts/tree/master/charts/stable/static-web-server",
+          "https://static-web-server.net"
+        ],
+        "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/static-web-server.webp"
+      },
         "static": {
             "app_readme": "<p>A self-hosted static file serving app which does nothing more than just serve up static files from a mounted volume.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/static\">https://truecharts.org/charts/stable/static</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
             "categories": [
