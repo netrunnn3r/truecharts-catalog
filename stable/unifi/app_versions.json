@@ -12,7 +12,7 @@
       "definitions/interface"
     ],
     "human_version": "8.5.6_21.0.13",
-    "version": "21.0.12",
+    "version": "21.0.13",
     "chart_metadata": {
       "annotations": {
         "truecharts.org/category": "Networking",
